@@ -16,7 +16,7 @@ Same TV, same script over ADB, same apps installed. Each value is the **median o
 
 | | 1 · Stock | 2 · Clean-up only | 3 · Clean-up + OMG Home |
 |---|---:|---:|---:|
-| Home screen app's own memory | 99 MB | 103 MB | **18 MB** |
+| Home screen app's own memory | 99 MB | 102.5 MB | **18 MB** |
 | Free memory for apps (MemAvailable, of 991 MB) ¹ | 291 MB | 304 MB | **376 MB** |
 | CPU busy while idle ¹ | 13.4 % | 12.3 % | **7.6 %** |
 | Power-on until the TV calms down (CPU < 40 %) | 106.5 s | 97.9 s | **71.1 s** |
@@ -41,7 +41,8 @@ Full table with min/max for every metric: [`results/COMPARE.md`](results/COMPARE
 
 ## What OMG Home is
 
-One screen, six tiles (YouTube, Netflix, Prime Video, JioHotstar, Settings, All apps), a red focus ring for the remote.
+One screen, a tile for each of YouTube, Netflix, Prime Video, JioHotstar, FanCode (shown as "F1 Car", only when it's installed)
+and Settings, plus All apps, and a red focus ring for the remote.
 No ads, no autoplay, no account, **zero permissions**, about 122 KB. Kotlin, no libraries. Edit the tiles in
 [`HomeActivity.kt`](launcher/app/src/main/java/com/openmodelgarage/tvlauncher/HomeActivity.kt).
 
@@ -97,5 +98,5 @@ network details, so check it before sharing. (The raw dumps behind this repo's n
 
 Built with **[Claude Code](https://claude.com/claude-code)**, an AI coding agent by Anthropic: it ran the ADB commands, wrote the
 launcher and ran every benchmark, directed by me. Font: Space Grotesk (SIL Open Font License, see `launcher/FONT_LICENSE_SpaceGrotesk_OFL.txt`).
-Code: MIT licence (see `LICENSE`). Android, Google TV, Xiaomi, Netflix, YouTube, Prime Video and JioHotstar are trademarks of their owners;
-this project isn't affiliated with any of them.
+Code: MIT licence (see `LICENSE`). Android, Google TV, Xiaomi, Netflix, YouTube, Prime Video, JioHotstar, FanCode, Formula 1 and F1 are trademarks of their owners;
+this project isn't affiliated with any of them. The "F1 Car" tile art is an original drawing (no team livery, no logo).
