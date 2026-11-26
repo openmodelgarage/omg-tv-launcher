@@ -1,0 +1,103 @@
+{
+  "label": "after",
+  "start": "2026-11-18T07:16:42+05:30",
+  "args": {
+    "label": "after",
+    "tests": "boot,input_overhead,home,launcher_cold,launch,scroll,idle",
+    "reps": 5,
+    "apps": "com.android.tv.settings,com.google.android.youtube.tv,com.amazon.amazonvideo.livingroom,in.startv.hotstar",
+    "settle": 60,
+    "allow_reboot": true,
+    "into": ""
+  },
+  "home_component": "com.openmodelgarage.tvlauncher/.HomeActivity",
+  "launcher_version": "0.1",
+  "apps": [
+    "com.android.tv.settings",
+    "com.google.android.youtube.tv",
+    "com.amazon.amazonvideo.livingroom",
+    "in.startv.hotstar"
+  ],
+  "uptime_s_at_start": 274,
+  "animation_scales": [
+    "1.0",
+    "1.0",
+    "null"
+  ],
+  "scroll_path": [
+    [
+      22,
+      6
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      21,
+      6
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      22,
+      6
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      21,
+      6
+    ],
+    [
+      19,
+      1
+    ]
+  ],
+  "key_gap_s": 0.35,
+  "end": "2026-11-18T07:46:29+05:30",
+  "calm": [
+    {
+      "test": "input_overhead",
+      "load1": 1.98,
+      "waited_s": 121,
+      "uptime_s": 219
+    },
+    {
+      "test": "home",
+      "load1": 1.98,
+      "waited_s": 0,
+      "uptime_s": 224
+    },
+    {
+      "test": "launcher_cold",
+      "load1": 1.71,
+      "waited_s": 0,
+      "uptime_s": 261
+    },
+    {
+      "test": "launch",
+      "load1": 1.74,
+      "waited_s": 0,
+      "uptime_s": 299
+    },
+    {
+      "test": "scroll",
+      "load1": 1.8,
+      "waited_s": 76,
+      "uptime_s": 798
+    },
+    {
+      "test": "idle",
+      "load1": 1.91,
+      "waited_s": 15,
+      "uptime_s": 1023
+    }
+  ],
+  "device": "Xiaomi Mi TV \u00b7 Android 9 \u00b7 1 GB RAM \u00b7 4 x Cortex-A53 (firmware built July 2021)",
+  "setup": "3_cleanup_plus_omg_home"
+}

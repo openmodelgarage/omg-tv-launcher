@@ -1,0 +1,74 @@
+{
+  "note": "idle on the home screen, median of the idle reps; PSS in MB (1024 KB)",
+  "stages": [
+    {
+      "setup": "1_stock",
+      "reps": 5,
+      "app_processes": 35,
+      "app_pss_mb": 531.2,
+      "groups_mb": {
+        "Native": 85.1,
+        "System": 39.5,
+        "Persistent": 26.3,
+        "Persistent Service": 14.5,
+        "Foreground": 103.8,
+        "Visible": 96.8,
+        "Perceptible": 16.6,
+        "A Services": 24.5,
+        "Home": 0,
+        "B Services": 28.9,
+        "Cached": 207.5
+      }
+    },
+    {
+      "setup": "2_cleanup_only",
+      "reps": 5,
+      "app_processes": 33,
+      "app_pss_mb": 515.5,
+      "groups_mb": {
+        "Native": 85.3,
+        "System": 41.0,
+        "Persistent": 28.6,
+        "Persistent Service": 9.6,
+        "Foreground": 102.4,
+        "Visible": 83.1,
+        "Perceptible": 14.1,
+        "A Services": 32.8,
+        "Home": 0,
+        "B Services": 85.5,
+        "Cached": 147.1
+      }
+    },
+    {
+      "setup": "3_cleanup_plus_omg_home",
+      "reps": 5,
+      "app_processes": 33,
+      "app_pss_mb": 475.0,
+      "groups_mb": {
+        "Native": 82.5,
+        "System": 42.0,
+        "Persistent": 31.0,
+        "Persistent Service": 12.9,
+        "Foreground": 17.7,
+        "Visible": 101.6,
+        "Perceptible": 15.7,
+        "A Services": 35.2,
+        "Home": 0,
+        "B Services": 87.4,
+        "Cached": 164.8
+      }
+    }
+  ],
+  "stock_top10_mb": {
+    "Google's home screen app": 98.7,
+    "Google Play services": 70.3,
+    "Voice search": 30.0,
+    "Voice search (helper)": 27.9,
+    "Chromecast built-in": 24.5,
+    "Xiaomi PatchWall": 24.3,
+    "Google Play services (2)": 24.0,
+    "Play Store": 23.8,
+    "Google Play services (3)": 23.4,
+    "Xiaomi update service": 19.1
+  }
+}

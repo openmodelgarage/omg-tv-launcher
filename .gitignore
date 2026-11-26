@@ -1,0 +1,27 @@
+# build output
+build/
+.gradle/
+*.apk
+*.aab
+
+# signing keys and local config (never commit these)
+*.jks
+*.keystore
+local.properties
+keystore.properties
+signing.properties
+.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# your own benchmark runs (raw/ can contain account and network details)
+bench/results/
+bench/compare.csv
+bench/compare.json
+bench/COMPARE.md
+bench/charts/
+__pycache__/

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- windowBackground = bg colour, so there is no white flash on a cold start -->
+    <style name="LauncherTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

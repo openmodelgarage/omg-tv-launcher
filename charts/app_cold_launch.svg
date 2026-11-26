@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" font-family="'Space Grotesk', 'Segoe UI', sans-serif">
+<rect width="1600" height="900" fill="#141416"/>
+<text x="300" y="80" fill="#F5F5F7" font-size="44" font-weight="500">Opening apps from cold (side note) (am start -W, TotalTime)</text>
+<text x="300" y="122" fill="#8E8E93" font-size="24">Median of 5 runs · bar end = median · thin line = min–max · lower is better</text>
+<line x1="300" y1="150" x2="300" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="300" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">0.0 s</text>
+<line x1="560" y1="150" x2="560" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="560" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">1.0 s</text>
+<line x1="820" y1="150" x2="820" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="820" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">2.0 s</text>
+<line x1="1080" y1="150" x2="1080" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="1080" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">3.0 s</text>
+<line x1="1340" y1="150" x2="1340" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="1340" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">4.0 s</text>
+<text x="276" y="244" fill="#F5F5F7" font-size="28" text-anchor="end">Settings</text>
+<g><title>before: 0.7 s (median), range 0.7 s–0.9 s</title><path d="M300,170.0 h176.7 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-176.7 z" fill="#8E8E93"/><line x1="477.8" x2="541.3" y1="191.1" y2="191.1" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="555.3" y="200.1" fill="#F5F5F7" font-size="26">0.7 s</text></g>
+<g><title>debloat: 0.7 s (median), range 0.7 s–0.8 s</title><path d="M300,214.2 h184.8 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-184.8 z" fill="#5C5C61"/><line x1="476.8" x2="495.0" y1="235.2" y2="235.2" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="509.0" y="244.2" fill="#F5F5F7" font-size="26">0.7 s</text></g>
+<g><title>after: 0.7 s (median), range 0.7 s–0.7 s</title><path d="M300,258.3 h172.8 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-172.8 z" fill="#FF453A"/><line x1="472.9" x2="488.0" y1="279.4" y2="279.4" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="502.0" y="288.4" fill="#F5F5F7" font-size="26">0.7 s</text></g>
+<text x="276" y="407" fill="#F5F5F7" font-size="28" text-anchor="end">YouTube</text>
+<g><title>before: 0.9 s (median), range 0.8 s–1.1 s</title><path d="M300,332.5 h219.6 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-219.6 z" fill="#8E8E93"/><line x1="509.0" x2="573.5" y1="353.6" y2="353.6" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="587.5" y="362.6" fill="#F5F5F7" font-size="26">0.9 s</text></g>
+<g><title>debloat: 1.1 s (median), range 0.8 s–1.1 s</title><path d="M300,376.7 h270.8 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-270.8 z" fill="#5C5C61"/><line x1="513.2" x2="580.8" y1="397.8" y2="397.8" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="594.8" y="406.8" fill="#F5F5F7" font-size="26">1.1 s</text></g>
+<g><title>after: 0.8 s (median), range 0.8 s–1.1 s</title><path d="M300,420.8 h204.5 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-204.5 z" fill="#FF453A"/><line x1="506.4" x2="589.1" y1="441.9" y2="441.9" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="603.1" y="450.9" fill="#F5F5F7" font-size="26">0.8 s</text></g>
+<text x="276" y="569" fill="#F5F5F7" font-size="28" text-anchor="end">Prime Video</text>
+<g><title>before: 1.2 s (median), range 1.1 s–47.0 s</title><path d="M300,495.0 h316.1 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-316.1 z" fill="#8E8E93"/><line x1="594.3" x2="1340.0" y1="516.1" y2="516.1" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><rect x="628.1" y="498.1" width="87" height="34" fill="#141416"/><text x="634.1" y="525.1" fill="#F5F5F7" font-size="26">1.2 s</text><text x="1350.0" y="523.1" fill="#8E8E93" font-size="20">→ max 47.0 s</text></g>
+<g><title>debloat: 1.0 s (median), range 0.9 s–47.2 s</title><path d="M300,539.2 h245.3 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-245.3 z" fill="#5C5C61"/><line x1="534.8" x2="1340.0" y1="560.2" y2="560.2" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><rect x="557.3" y="542.2" width="87" height="34" fill="#141416"/><text x="563.3" y="569.2" fill="#F5F5F7" font-size="26">1.0 s</text><text x="1350.0" y="567.2" fill="#8E8E93" font-size="20">→ max 47.2 s</text></g>
+<g><title>after: 0.9 s (median), range 0.9 s–45.2 s</title><path d="M300,583.3 h240.9 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-240.9 z" fill="#FF453A"/><line x1="528.3" x2="1340.0" y1="604.4" y2="604.4" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><rect x="552.9" y="586.4" width="87" height="34" fill="#141416"/><text x="558.9" y="613.4" fill="#F5F5F7" font-size="26">0.9 s</text><text x="1350.0" y="611.4" fill="#8E8E93" font-size="20">→ max 45.2 s</text></g>
+<text x="276" y="732" fill="#F5F5F7" font-size="28" text-anchor="end">JioHotstar</text>
+<g><title>before: 2.4 s (median), range 2.2 s–2.6 s</title><path d="M300,657.5 h607.8 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-607.8 z" fill="#8E8E93"/><line x1="878.0" x2="969.8" y1="678.6" y2="678.6" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="983.8" y="687.6" fill="#F5F5F7" font-size="26">2.4 s</text></g>
+<g><title>debloat: 2.4 s (median), range 2.1 s–2.6 s</title><path d="M300,701.7 h628.6 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-628.6 z" fill="#5C5C61"/><line x1="848.6" x2="968.2" y1="722.8" y2="722.8" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="982.2" y="731.8" fill="#F5F5F7" font-size="26">2.4 s</text></g>
+<g><title>after: 2.3 s (median), range 2.1 s–2.5 s</title><path d="M300,745.8 h582.0 a4,4 0 0 1 4,4 v34.2 a4,4 0 0 1 -4,4 h-582.0 z" fill="#FF453A"/><line x1="845.2" x2="959.1" y1="766.9" y2="766.9" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="973.1" y="775.9" fill="#F5F5F7" font-size="26">2.3 s</text></g>
+<rect x="300" y="874" width="18" height="18" rx="4" fill="#8E8E93"/><text x="328" y="889" fill="#8E8E93" font-size="20">before</text>
+<rect x="432" y="874" width="18" height="18" rx="4" fill="#5C5C61"/><text x="460" y="889" fill="#8E8E93" font-size="20">debloat</text>
+<rect x="576" y="874" width="18" height="18" rx="4" fill="#FF453A"/><text x="604" y="889" fill="#8E8E93" font-size="20">after</text>
+</svg>

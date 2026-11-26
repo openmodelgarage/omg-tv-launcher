@@ -1,0 +1,47 @@
+test,item,metric,unit,before_median,before_min,before_max,before_n,debloat_median,debloat_min,debloat_max,debloat_n,after_median,after_min,after_max,after_n,change_pct,verdict,ranges_overlap
+boot,uptime,boot_progress_start_ms,ms,6192,6079,6205,5,6051,6044,6152,5,6107,6068,6165,5,-1.4,better,True
+boot,uptime,boot_progress_system_run_ms,ms,11523,11506,11619,5,11506,11448,11521,5,11586,11432,12013,5,0.5,worse,True
+boot,uptime,boot_progress_ams_ready_ms,ms,16797,16613,17857,5,16761,16739,16842,5,16884,16680,17226,5,0.5,worse,True
+boot,uptime,boot_progress_enable_screen_ms,ms,19029,18831,19907,5,18994,18951,19067,5,19000,18920,19529,5,-0.2,better,True
+boot,uptime,launcher_first_frame_logged_ms,ms,28234,23911,29183,5,27832,27507,28351,5,22792,17464,23251,5,-19.3,better,False
+boot,uptime,settled_cpu_under_40pct_ms,ms,106500,104680,119850,5,97940,77100,101010,5,71100,66740,73500,5,-33.2,better,False
+input_overhead,input keyevent,roundtrip_ms,ms,1011,982,1947,5,999,969,1676,5,971,948,1422,5,-4.0,better,True
+home,HOME intent,TotalTime,ms,254,229,509,5,288,226,419,5,82,74,84,5,-67.7,better,False
+home,HOME intent,WaitTime,ms,283,258,535,5,319,258,449,5,94,92,97,5,-66.8,better,False
+launcher_cold,(launcher),TotalTime,ms,3616,3579,3715,5,3691,3617,3756,5,2489,2438,2523,5,-31.2,better,False
+launcher_cold,(launcher),WaitTime,ms,1402,1361,1475,5,1469,1381,1530,5,276,248,315,5,-80.3,better,False
+launch_cold,com.android.tv.settings,TotalTime,ms,695,684,928,5,726,680,750,5,680,665,723,5,-2.2,better,True
+launch_cold,com.android.tv.settings,WaitTime,ms,749,735,1049,5,791,724,800,5,718,708,766,5,-4.1,better,True
+launch_warm,com.android.tv.settings,TotalTime,ms,184,172,209,5,183,161,379,5,183,143,201,5,-0.5,better,True
+launch_warm,com.android.tv.settings,WaitTime,ms,195,181,223,5,195,177,398,5,193,152,215,5,-1.0,better,True
+launch_cold,com.google.android.youtube.tv,TotalTime,ms,860,804,1052,5,1057,820,1080,5,802,794,1112,5,-6.7,better,True
+launch_cold,com.google.android.youtube.tv,WaitTime,ms,916,864,1123,5,1128,878,1260,5,841,832,1165,5,-8.2,better,True
+launch_warm,com.google.android.youtube.tv,TotalTime,ms,0,0,0,5,0,0,0,5,0,0,0,5,,same/neutral,True
+launch_warm,com.google.android.youtube.tv,WaitTime,ms,106,104,129,5,208,178,257,5,78,64,86,5,-26.4,better,False
+launch_cold,com.amazon.amazonvideo.livingroom,TotalTime,ms,1231,1132,47027,5,959,903,47176,5,942,878,45177,5,-23.5,better,True
+launch_cold,com.amazon.amazonvideo.livingroom,WaitTime,ms,1362,1240,1815,5,1012,945,1307,5,992,913,1161,5,-27.2,better,False
+launch_warm,com.amazon.amazonvideo.livingroom,TotalTime,ms,128,108,2158,5,121,36,2754,5,107,92,2325,5,-16.4,better,True
+launch_warm,com.amazon.amazonvideo.livingroom,WaitTime,ms,142,122,2184,5,139,116,2781,5,122,102,2343,5,-14.1,better,True
+launch_cold,in.startv.hotstar,TotalTime,ms,2353,2223,2576,5,2433,2110,2570,5,2254,2097,2535,5,-4.2,better,True
+launch_cold,in.startv.hotstar,WaitTime,ms,2407,2274,2670,5,2507,2158,2654,5,2288,2131,2601,5,-4.9,better,True
+launch_warm,in.startv.hotstar,TotalTime,ms,184,166,301,5,226,154,464,5,171,128,195,5,-7.1,better,True
+launch_warm,in.startv.hotstar,WaitTime,ms,193,181,313,5,248,173,486,5,182,138,208,5,-5.7,better,True
+scroll,(launcher),path_seconds,s,38.6,38.2,39.5,5,38.1,37.6,38.7,5,36.9,36.8,37.0,5,-4.4,better,False
+scroll,(launcher),frames,count,393.0,341.0,499.0,5,365.0,297.0,471.0,5,122.0,120.0,122.0,5,-69.0,worse,False
+scroll,(launcher),janky,count,31.0,29.0,82.0,5,18.0,9.0,60.0,5,0.0,0.0,1.0,5,-100.0,better,False
+scroll,(launcher),janky_pct,%,9.09,7.38,20.6,5,6.06,2.46,12.74,5,0.0,0.0,0.82,5,-100.0,better,False
+scroll,(launcher),p50_ms,ms,7.0,7.0,8.0,5,6.0,6.0,7.0,5,5.0,5.0,6.0,5,-28.6,better,False
+scroll,(launcher),p90_ms,ms,16.0,15.0,21.0,5,15.0,13.0,18.0,5,6.0,6.0,7.0,5,-62.5,better,False
+scroll,(launcher),p95_ms,ms,19.0,18.0,27.0,5,17.0,14.0,23.0,5,7.0,7.0,7.0,5,-63.2,better,False
+scroll,(launcher),p99_ms,ms,53.0,30.0,125.0,5,29.0,28.0,89.0,5,8.0,7.0,10.0,5,-84.9,better,False
+scroll,(launcher),missed_vsync,count,0.0,0.0,0.0,5,0.0,0.0,0.0,5,0.0,0.0,0.0,5,,same/neutral,True
+scroll,(launcher),slow_ui_thread,count,0.0,0.0,0.0,5,0.0,0.0,0.0,5,0.0,0.0,0.0,5,,same/neutral,True
+idle,system,cpu_busy_pct_30s,%,13.4,12.3,14.8,5,12.3,11.9,12.7,5,7.6,7.5,7.8,5,-43.3,better,False
+idle,system,MemAvailable_mb,MB,291,241,301,5,304,294,306,5,376,376,377,5,29.2,better,False
+idle,system,MemFree_mb,MB,131,80,137,5,74,69,77,5,98,97,101,5,-25.2,worse,True
+idle,system,Cached_mb,MB,235,230,240,5,298,294,300,5,345,343,346,5,46.8,better,False
+idle,system,free_ram_mb,MB,395,360,403,5,356,346,369,5,430,429,433,5,8.9,better,False
+idle,system,used_ram_mb,MB,573,568,578,5,612,603,613,5,553,552,554,5,-3.5,better,False
+idle,system,lost_ram_mb,MB,143,126,172,5,127,122,139,5,78,77,78,5,-45.5,better,False
+idle,(launcher),launcher_pss_mb,MB,98.7,93.0,100.2,5,102.5,102.4,106.8,5,17.7,16.3,17.7,5,-82.1,better,False
+idle,system,process_count,count,255,253,256,5,249,249,251,5,248,248,249,5,-2.7,better,False

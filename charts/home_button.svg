@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" font-family="'Space Grotesk', 'Segoe UI', sans-serif">
+<rect width="1600" height="900" fill="#141416"/>
+<text x="300" y="80" fill="#F5F5F7" font-size="44" font-weight="500">Home button to home screen</text>
+<text x="300" y="122" fill="#8E8E93" font-size="24">Median of 5 runs · bar end = median · thin line = min–max · lower is better</text>
+<line x1="300" y1="150" x2="300" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="300" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">0 ms</text>
+<line x1="560" y1="150" x2="560" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="560" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">100 ms</text>
+<line x1="820" y1="150" x2="820" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="820" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">200 ms</text>
+<line x1="1080" y1="150" x2="1080" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="1080" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">300 ms</text>
+<line x1="1340" y1="150" x2="1340" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="1340" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">400 ms</text>
+<g><title>before: 254 ms (median), range 229 ms–509 ms</title><path d="M300,307.0 h656.4 a4,4 0 0 1 4,4 v102.0 a4,4 0 0 1 -4,4 h-656.4 z" fill="#8E8E93"/><line x1="895.4" x2="1340.0" y1="362.0" y2="362.0" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><rect x="968.4" y="344.0" width="102" height="34" fill="#141416"/><text x="974.4" y="371.0" fill="#F5F5F7" font-size="26">254 ms</text><text x="1350.0" y="369.0" fill="#8E8E93" font-size="20">→ max 509 ms</text></g>
+<text x="276" y="371.0" fill="#8E8E93" font-size="26" text-anchor="end">before</text>
+<g><title>debloat: 288 ms (median), range 226 ms–419 ms</title><path d="M300,419.0 h744.8 a4,4 0 0 1 4,4 v102.0 a4,4 0 0 1 -4,4 h-744.8 z" fill="#5C5C61"/><line x1="887.6" x2="1340.0" y1="474.0" y2="474.0" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><rect x="1056.8" y="456.0" width="102" height="34" fill="#141416"/><text x="1062.8" y="483.0" fill="#F5F5F7" font-size="26">288 ms</text><text x="1350.0" y="481.0" fill="#8E8E93" font-size="20">→ max 419 ms</text></g>
+<text x="276" y="483.0" fill="#8E8E93" font-size="26" text-anchor="end">debloat</text>
+<g><title>after: 82 ms (median), range 74 ms–84 ms</title><path d="M300,531.0 h209.2 a4,4 0 0 1 4,4 v102.0 a4,4 0 0 1 -4,4 h-209.2 z" fill="#FF453A"/><line x1="492.4" x2="518.4" y1="586.0" y2="586.0" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="532.4" y="595.0" fill="#F5F5F7" font-size="26">82 ms</text></g>
+<text x="276" y="595.0" fill="#8E8E93" font-size="26" text-anchor="end">after</text>
+<rect x="300" y="874" width="18" height="18" rx="4" fill="#8E8E93"/><text x="328" y="889" fill="#8E8E93" font-size="20">before</text>
+<rect x="432" y="874" width="18" height="18" rx="4" fill="#5C5C61"/><text x="460" y="889" fill="#8E8E93" font-size="20">debloat</text>
+<rect x="576" y="874" width="18" height="18" rx="4" fill="#FF453A"/><text x="604" y="889" fill="#8E8E93" font-size="20">after</text>
+</svg>

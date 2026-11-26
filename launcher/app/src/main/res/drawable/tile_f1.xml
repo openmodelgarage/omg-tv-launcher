@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Custom tile art for the FanCode tile ("F1 Car"): an original, generic open-wheel race car
+     drawn for this project (no team livery, no logo). 16:9 like a TV banner. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#FF1A1A1C" android:pathData="M0,0h320v180h-320z" />
+    <!-- speed lines -->
+    <path android:fillColor="#66FF453A" android:pathData="M6,92h44v3h-44zM16,104h30v3h-30zM2,116h18v3h-18z" />
+    <!-- front wing -->
+    <path android:fillColor="#FFF5F5F7" android:pathData="M24,124h54v6h-54z" />
+    <!-- body -->
+    <path android:fillColor="#FFFF453A"
+        android:pathData="M30,122L118,108L150,98L176,86L210,86L218,98L264,100L266,122Z" />
+    <!-- white stripe along the body -->
+    <path android:fillColor="#FFF5F5F7" android:pathData="M60,118L150,104L218,104L262,106L262,110L218,108L150,108L62,121Z" />
+    <!-- cockpit and halo -->
+    <path android:fillColor="#FF0B0B0C" android:pathData="M172,86L180,74L202,74L210,86Z" />
+    <path android:strokeColor="#FFF5F5F7" android:strokeWidth="3" android:fillColor="#00000000"
+        android:pathData="M168,86Q190,66 212,86" />
+    <!-- rear wing and pylon -->
+    <path android:fillColor="#FFFF453A" android:pathData="M248,66h40v12h-40z" />
+    <path android:fillColor="#FF0B0B0C" android:pathData="M262,78h8v22h-8z" />
+    <!-- wheels -->
+    <path android:fillColor="#FF0B0B0C" android:pathData="M70,124a22,22 0 1,0 44,0a22,22 0 1,0 -44,0z" />
+    <path android:fillColor="#FF0B0B0C" android:pathData="M212,122a25,25 0 1,0 50,0a25,25 0 1,0 -50,0z" />
+    <path android:fillColor="#FF48484A" android:pathData="M84,124a8,8 0 1,0 16,0a8,8 0 1,0 -16,0z" />
+    <path android:fillColor="#FF48484A" android:pathData="M228,122a9,9 0 1,0 18,0a9,9 0 1,0 -18,0z" />
+    <!-- ground shadow -->
+    <path android:fillColor="#33000000" android:pathData="M30,148h250v4h-250z" />
+</vector>

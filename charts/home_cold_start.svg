@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" font-family="'Space Grotesk', 'Segoe UI', sans-serif">
+<rect width="1600" height="900" fill="#141416"/>
+<text x="300" y="80" fill="#F5F5F7" font-size="44" font-weight="500">Home screen, cold start</text>
+<text x="300" y="122" fill="#8E8E93" font-size="24">Median of 5 runs · bar end = median · thin line = min–max · lower is better</text>
+<line x1="300" y1="150" x2="300" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="300" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">0.0 s</text>
+<line x1="647" y1="150" x2="647" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="647" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">2.0 s</text>
+<line x1="993" y1="150" x2="993" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="993" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">4.0 s</text>
+<line x1="1340" y1="150" x2="1340" y2="830" stroke="#2A2A2C" stroke-width="1"/>
+<text x="1340" y="860" fill="#8E8E93" font-size="20" text-anchor="middle">6.0 s</text>
+<g><title>before: 3.6 s (median), range 3.6 s–3.7 s</title><path d="M300,307.0 h622.8 a4,4 0 0 1 4,4 v102.0 a4,4 0 0 1 -4,4 h-622.8 z" fill="#8E8E93"/><line x1="920.4" x2="943.9" y1="362.0" y2="362.0" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="957.9" y="371.0" fill="#F5F5F7" font-size="26">3.6 s</text></g>
+<text x="276" y="371.0" fill="#8E8E93" font-size="26" text-anchor="end">before</text>
+<g><title>debloat: 3.7 s (median), range 3.6 s–3.8 s</title><path d="M300,419.0 h635.8 a4,4 0 0 1 4,4 v102.0 a4,4 0 0 1 -4,4 h-635.8 z" fill="#5C5C61"/><line x1="926.9" x2="951.0" y1="474.0" y2="474.0" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="965.0" y="483.0" fill="#F5F5F7" font-size="26">3.7 s</text></g>
+<text x="276" y="483.0" fill="#8E8E93" font-size="26" text-anchor="end">debloat</text>
+<g><title>after: 2.5 s (median), range 2.4 s–2.5 s</title><path d="M300,531.0 h427.4 a4,4 0 0 1 4,4 v102.0 a4,4 0 0 1 -4,4 h-427.4 z" fill="#FF453A"/><line x1="722.6" x2="737.3" y1="586.0" y2="586.0" stroke="#F5F5F7" stroke-opacity="0.55" stroke-width="2"/><text x="751.3" y="595.0" fill="#F5F5F7" font-size="26">2.5 s</text></g>
+<text x="276" y="595.0" fill="#8E8E93" font-size="26" text-anchor="end">after</text>
+<rect x="300" y="874" width="18" height="18" rx="4" fill="#8E8E93"/><text x="328" y="889" fill="#8E8E93" font-size="20">before</text>
+<rect x="432" y="874" width="18" height="18" rx="4" fill="#5C5C61"/><text x="460" y="889" fill="#8E8E93" font-size="20">debloat</text>
+<rect x="576" y="874" width="18" height="18" rx="4" fill="#FF453A"/><text x="604" y="889" fill="#8E8E93" font-size="20">after</text>
+</svg>

@@ -1,0 +1,129 @@
+{
+  "label": "before",
+  "start": "2026-11-18T00:44:51+05:30",
+  "args": {
+    "label": "before",
+    "tests": "boot,input_overhead,home,launcher_cold,launch,scroll,idle",
+    "reps": 5,
+    "apps": "com.android.tv.settings,com.google.android.youtube.tv,com.netflix.ninja,com.amazon.amazonvideo.livingroom,in.startv.hotstar",
+    "settle": 60,
+    "allow_reboot": true
+  },
+  "home_component": "com.google.android.tvlauncher/.MainActivity",
+  "launcher_version": "7.7.15-968255986-f",
+  "apps": [
+    "com.android.tv.settings",
+    "com.google.android.youtube.tv",
+    "com.netflix.ninja",
+    "com.amazon.amazonvideo.livingroom",
+    "in.startv.hotstar"
+  ],
+  "uptime_s_at_start": 968,
+  "animation_scales": [
+    "1.0",
+    "1.0",
+    "null"
+  ],
+  "scroll_path": [
+    [
+      22,
+      6
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      21,
+      6
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      22,
+      6
+    ],
+    [
+      20,
+      1
+    ],
+    [
+      21,
+      6
+    ],
+    [
+      19,
+      1
+    ]
+  ],
+  "key_gap_s": 0.35,
+  "end": "2026-11-18T01:32:52+05:30",
+  "continued": [
+    {
+      "start": "2026-11-18T00:58:12+05:30",
+      "args": {
+        "label": "before",
+        "tests": "input_overhead,home,launcher_cold,launch,scroll,idle",
+        "reps": 5,
+        "apps": "com.android.tv.settings,com.google.android.youtube.tv,com.netflix.ninja,com.amazon.amazonvideo.livingroom,in.startv.hotstar",
+        "settle": 60,
+        "allow_reboot": false,
+        "into": "results/before_20261118_004446"
+      }
+    },
+    {
+      "start": "2026-11-18T01:11:40+05:30",
+      "args": {
+        "label": "before",
+        "tests": "launch,scroll,idle",
+        "reps": 5,
+        "apps": "com.android.tv.settings,com.google.android.youtube.tv,com.amazon.amazonvideo.livingroom,in.startv.hotstar",
+        "settle": 60,
+        "allow_reboot": false,
+        "into": "results/before_20261118_004446"
+      }
+    }
+  ],
+  "calm": [
+    {
+      "test": "input_overhead",
+      "load1": 1.94,
+      "waited_s": 228,
+      "uptime_s": 407
+    },
+    {
+      "test": "home",
+      "load1": 1.94,
+      "waited_s": 0,
+      "uptime_s": 414
+    },
+    {
+      "test": "launcher_cold",
+      "load1": 1.93,
+      "waited_s": 76,
+      "uptime_s": 528
+    },
+    {
+      "test": "launch",
+      "load1": 1.9,
+      "waited_s": 243,
+      "uptime_s": 1231
+    },
+    {
+      "test": "scroll",
+      "load1": 1.93,
+      "waited_s": 61,
+      "uptime_s": 1722
+    },
+    {
+      "test": "idle",
+      "load1": 1.99,
+      "waited_s": 15,
+      "uptime_s": 1957
+    }
+  ],
+  "device": "Xiaomi Mi TV \u00b7 Android 9 \u00b7 1 GB RAM \u00b7 4 x Cortex-A53 (firmware built July 2021)",
+  "setup": "1_stock"
+}

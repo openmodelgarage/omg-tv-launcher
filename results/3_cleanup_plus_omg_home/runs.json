@@ -1,0 +1,1882 @@
+[
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 0,
+  "metric": "boot_progress_start_ms",
+  "value": 6068,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 0,
+  "metric": "boot_progress_system_run_ms",
+  "value": 12013,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 0,
+  "metric": "boot_progress_ams_ready_ms",
+  "value": 17226,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 0,
+  "metric": "boot_progress_enable_screen_ms",
+  "value": 19529,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 0,
+  "metric": "launcher_first_frame_logged_ms",
+  "value": 23251,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 0,
+  "metric": "settled_cpu_under_40pct_ms",
+  "value": 73500,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 1,
+  "metric": "boot_progress_start_ms",
+  "value": 6098,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 1,
+  "metric": "boot_progress_system_run_ms",
+  "value": 11432,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 1,
+  "metric": "boot_progress_ams_ready_ms",
+  "value": 16680,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 1,
+  "metric": "boot_progress_enable_screen_ms",
+  "value": 18956,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 1,
+  "metric": "launcher_first_frame_logged_ms",
+  "value": 22792,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 1,
+  "metric": "settled_cpu_under_40pct_ms",
+  "value": 72890,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 2,
+  "metric": "boot_progress_start_ms",
+  "value": 6165,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 2,
+  "metric": "boot_progress_system_run_ms",
+  "value": 11586,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 2,
+  "metric": "boot_progress_ams_ready_ms",
+  "value": 16884,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 2,
+  "metric": "boot_progress_enable_screen_ms",
+  "value": 19123,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 2,
+  "metric": "launcher_first_frame_logged_ms",
+  "value": 17464,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 2,
+  "metric": "settled_cpu_under_40pct_ms",
+  "value": 70770,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 3,
+  "metric": "boot_progress_start_ms",
+  "value": 6107,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 3,
+  "metric": "boot_progress_system_run_ms",
+  "value": 11589,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 3,
+  "metric": "boot_progress_ams_ready_ms",
+  "value": 16910,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 3,
+  "metric": "boot_progress_enable_screen_ms",
+  "value": 19000,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 3,
+  "metric": "launcher_first_frame_logged_ms",
+  "value": 23012,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 3,
+  "metric": "settled_cpu_under_40pct_ms",
+  "value": 71100,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 4,
+  "metric": "boot_progress_start_ms",
+  "value": 6115,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 4,
+  "metric": "boot_progress_system_run_ms",
+  "value": 11541,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 4,
+  "metric": "boot_progress_ams_ready_ms",
+  "value": 16733,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 4,
+  "metric": "boot_progress_enable_screen_ms",
+  "value": 18920,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 4,
+  "metric": "launcher_first_frame_logged_ms",
+  "value": 22697,
+  "unit": "ms"
+ },
+ {
+  "test": "boot",
+  "item": "uptime",
+  "rep": 4,
+  "metric": "settled_cpu_under_40pct_ms",
+  "value": 66740,
+  "unit": "ms"
+ },
+ {
+  "test": "input_overhead",
+  "item": "input keyevent",
+  "rep": 0,
+  "metric": "roundtrip_ms",
+  "value": 1422,
+  "unit": "ms"
+ },
+ {
+  "test": "input_overhead",
+  "item": "input keyevent",
+  "rep": 1,
+  "metric": "roundtrip_ms",
+  "value": 968,
+  "unit": "ms"
+ },
+ {
+  "test": "input_overhead",
+  "item": "input keyevent",
+  "rep": 2,
+  "metric": "roundtrip_ms",
+  "value": 948,
+  "unit": "ms"
+ },
+ {
+  "test": "input_overhead",
+  "item": "input keyevent",
+  "rep": 3,
+  "metric": "roundtrip_ms",
+  "value": 971,
+  "unit": "ms"
+ },
+ {
+  "test": "input_overhead",
+  "item": "input keyevent",
+  "rep": 4,
+  "metric": "roundtrip_ms",
+  "value": 1052,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 82,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 94,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 83,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 97,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 84,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 96,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 74,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 92,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 82,
+  "unit": "ms"
+ },
+ {
+  "test": "home",
+  "item": "HOME intent",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 92,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 2508,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 307,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "LaunchState",
+  "value": "",
+  "unit": ""
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 2481,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 276,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "LaunchState",
+  "value": "",
+  "unit": ""
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 2523,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 315,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "LaunchState",
+  "value": "",
+  "unit": ""
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 2489,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 275,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "LaunchState",
+  "value": "",
+  "unit": ""
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 2438,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 248,
+  "unit": "ms"
+ },
+ {
+  "test": "launcher_cold",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "LaunchState",
+  "value": "",
+  "unit": ""
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 723,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 766,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 668,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 708,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 681,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 719,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 680,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 718,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 665,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.android.tv.settings",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 708,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 191,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 201,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 201,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 215,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 183,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 193,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 143,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 152,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 163,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.android.tv.settings",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 173,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 1112,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 1165,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 849,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 894,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 794,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 832,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 799,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 833,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 802,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.google.android.youtube.tv",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 841,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 0,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 68,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 0,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 86,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 0,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 85,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 0,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 64,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 0,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.google.android.youtube.tv",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 78,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 45177,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 1161,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 952,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 994,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 878,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 913,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 942,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 992,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 918,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 944,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 111,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 122,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 92,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 102,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 107,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 124,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 2325,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 2343,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 107,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "com.amazon.amazonvideo.livingroom",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 116,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 2535,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 2601,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 2173,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 2217,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 2264,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 2300,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 2097,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 2131,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 2254,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_cold",
+  "item": "in.startv.hotstar",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 2288,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 0,
+  "metric": "TotalTime",
+  "value": 171,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 0,
+  "metric": "WaitTime",
+  "value": 182,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 1,
+  "metric": "TotalTime",
+  "value": 178,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 1,
+  "metric": "WaitTime",
+  "value": 194,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 2,
+  "metric": "TotalTime",
+  "value": 195,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 2,
+  "metric": "WaitTime",
+  "value": 208,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 3,
+  "metric": "TotalTime",
+  "value": 137,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 3,
+  "metric": "WaitTime",
+  "value": 147,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 4,
+  "metric": "TotalTime",
+  "value": 128,
+  "unit": "ms"
+ },
+ {
+  "test": "launch_warm",
+  "item": "in.startv.hotstar",
+  "rep": 4,
+  "metric": "WaitTime",
+  "value": 138,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "path_seconds",
+  "value": 36.8,
+  "unit": "s"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "frames",
+  "value": 122.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "janky",
+  "value": 1.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "janky_pct",
+  "value": 0.82,
+  "unit": "%"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "p50_ms",
+  "value": 6.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "p90_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "p95_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "p99_ms",
+  "value": 10.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "missed_vsync",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "slow_ui_thread",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "path_seconds",
+  "value": 37.0,
+  "unit": "s"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "frames",
+  "value": 122.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "janky",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "janky_pct",
+  "value": 0.0,
+  "unit": "%"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "p50_ms",
+  "value": 5.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "p90_ms",
+  "value": 6.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "p95_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "p99_ms",
+  "value": 8.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "missed_vsync",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "slow_ui_thread",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "path_seconds",
+  "value": 36.8,
+  "unit": "s"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "frames",
+  "value": 120.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "janky",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "janky_pct",
+  "value": 0.0,
+  "unit": "%"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "p50_ms",
+  "value": 6.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "p90_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "p95_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "p99_ms",
+  "value": 8.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "missed_vsync",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "slow_ui_thread",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "path_seconds",
+  "value": 37.0,
+  "unit": "s"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "frames",
+  "value": 122.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "janky",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "janky_pct",
+  "value": 0.0,
+  "unit": "%"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "p50_ms",
+  "value": 5.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "p90_ms",
+  "value": 6.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "p95_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "p99_ms",
+  "value": 8.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "missed_vsync",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "slow_ui_thread",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "path_seconds",
+  "value": 36.9,
+  "unit": "s"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "frames",
+  "value": 122.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "janky",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "janky_pct",
+  "value": 0.0,
+  "unit": "%"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "p50_ms",
+  "value": 5.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "p90_ms",
+  "value": 6.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "p95_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "p99_ms",
+  "value": 7.0,
+  "unit": "ms"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "missed_vsync",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "scroll",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "slow_ui_thread",
+  "value": 0.0,
+  "unit": "count"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "cpu_busy_pct_30s",
+  "value": 7.8,
+  "unit": "%"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "MemAvailable_mb",
+  "value": 376,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "MemFree_mb",
+  "value": 101,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "Cached_mb",
+  "value": 343,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "free_ram_mb",
+  "value": 433,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "used_ram_mb",
+  "value": 552,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "lost_ram_mb",
+  "value": 77,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 0,
+  "metric": "launcher_pss_mb",
+  "value": 16.3,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 0,
+  "metric": "process_count",
+  "value": 249,
+  "unit": "count"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "cpu_busy_pct_30s",
+  "value": 7.5,
+  "unit": "%"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "MemAvailable_mb",
+  "value": 376,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "MemFree_mb",
+  "value": 98,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "Cached_mb",
+  "value": 345,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "free_ram_mb",
+  "value": 430,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "used_ram_mb",
+  "value": 554,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "lost_ram_mb",
+  "value": 78,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 1,
+  "metric": "launcher_pss_mb",
+  "value": 17.7,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 1,
+  "metric": "process_count",
+  "value": 248,
+  "unit": "count"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "cpu_busy_pct_30s",
+  "value": 7.5,
+  "unit": "%"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "MemAvailable_mb",
+  "value": 376,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "MemFree_mb",
+  "value": 98,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "Cached_mb",
+  "value": 345,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "free_ram_mb",
+  "value": 430,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "used_ram_mb",
+  "value": 553,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "lost_ram_mb",
+  "value": 78,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 2,
+  "metric": "launcher_pss_mb",
+  "value": 17.7,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 2,
+  "metric": "process_count",
+  "value": 248,
+  "unit": "count"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "cpu_busy_pct_30s",
+  "value": 7.7,
+  "unit": "%"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "MemAvailable_mb",
+  "value": 376,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "MemFree_mb",
+  "value": 97,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "Cached_mb",
+  "value": 346,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "free_ram_mb",
+  "value": 429,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "used_ram_mb",
+  "value": 554,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "lost_ram_mb",
+  "value": 78,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 3,
+  "metric": "launcher_pss_mb",
+  "value": 17.7,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 3,
+  "metric": "process_count",
+  "value": 248,
+  "unit": "count"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "cpu_busy_pct_30s",
+  "value": 7.6,
+  "unit": "%"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "MemAvailable_mb",
+  "value": 377,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "MemFree_mb",
+  "value": 98,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "Cached_mb",
+  "value": 346,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "free_ram_mb",
+  "value": 431,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "used_ram_mb",
+  "value": 553,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "lost_ram_mb",
+  "value": 78,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "com.openmodelgarage.tvlauncher",
+  "rep": 4,
+  "metric": "launcher_pss_mb",
+  "value": 17.7,
+  "unit": "MB"
+ },
+ {
+  "test": "idle",
+  "item": "system",
+  "rep": 4,
+  "metric": "process_count",
+  "value": 248,
+  "unit": "count"
+ }
+]
